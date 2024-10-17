@@ -5,3 +5,5 @@
 - Run `python3 record.py` and wait till all the cameras load in the GUI (This could take a minute depending on how many cameras are connected)
 - Once the GUI has loaded, click on the buttons to start and stop recording as necessary: files are saved with the camera numbers and the start and stop timestamp
 - Once completed, use the close button to terminate the program
+
+For a version of the script that loads up quicker but has the different cameras in separate windows, use `record_lite.py`. Same installation and running steps apply
